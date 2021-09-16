@@ -1,16 +1,22 @@
-# Recent Projects
 
-## China's Historic Growth, Explained in Charts
+# My Recent Projects
+<br>
+
+## How Have China's Citizens Adapted to Economic Growth?
 - Created visualizations with Microsoft Excel to interpret China's macroeconomic data between 1952 and 2008
 - Utilized pivot tables to prepare data for charts and a macro to create consistent headers
 - Discovered how Chinese citizens' income grew and how Chinese citizens spent this extra income
 - Charted the drastic rise of urban populations and secondary (non-agricultural) industry
 
+<br>
 <div class="project-links-container">
   <a href="china_economic_growth.pdf" target="_blank">Check out my work here!</a>
   <br>
+  <br>
   <a href="https://www.ers.usda.gov/data-products/china-agricultural-and-economic-data/download-the-data/" target="_blank">Dataset</a>
 </div>
+<br>
+<br>
 
 
 ## Who Dominates the Console Games Market?
@@ -20,11 +26,15 @@
 - Concluded that a console game's sales are closer linked to its content rating than its user rating (adult only games generate more sales)
 - Gave data driven recommendations on how to improve a console game's global sales
 
+<br>
 <div class="project-links-container">
   <a href="videogame_sales.pdf" target="_blank">Check out my work here!</a>
   <br>
+  <br>
   <a href="https://www.kaggle.com/sidtwr/videogames-sales-dataset" target="_blank">Dataset</a>
 </div>
+<br>
+<br>
 
 ## What Factors are Linked to Loan Defaults?
 - Prepared a report for a hypothetical bank's loan servicing branch
@@ -35,8 +45,12 @@
 - Discovered an increased risk of loan defaults for low income borrowers, unmarried borrowers, and borrowers with children
 - Concluded that borrowers who loan money to buy a car or pay for education may be more likely to default
 
+<br>
 <div class="project-links-container">
   <a href="https://kencroker.github.io/risk_of_default/" target="_blank">Check out my work here!</a>
   <br>
+  <br>
   <a href="credit_scoring_eng.csv" target="_blank">Dataset</a>
 </div>
+<br>
+<br>
