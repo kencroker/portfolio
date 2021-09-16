@@ -6,4 +6,4 @@
 - Discovered how Chinese citizens' income grew and how Chinese citizens spent this extra income
 - Charted the drastic rise of urban populations and secondary (non-agricultural) industry
 
-<a href="projects/china_economic_growth.pdf">Check out my work here!</a>
+<a href="china_economic_growth.pdf" target="_blank">Check out my work here!</a>
