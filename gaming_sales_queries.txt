@@ -1,0 +1,34 @@
+CREATE TABLE video_games_sales (
+	Name VARCHAR(300),
+	Platform VARCHAR(40),
+	Year_Released INT,
+	Genre VARCHAR(40),
+	Publisher VARCHAR(50),
+	NA_Sales FLOAT,
+	EU_Sales FLOAT,
+	JP_Sales FLOAT,
+	Other_Sales FLOAT,
+	Global_Sales FLOAT,
+	Critic_Score FLOAT,
+	Critic_Count INT,
+	User_Score FLOAT,
+	User_Count INT,
+	Developer VARCHAR(50),
+	Rating VARCHAR(5),
+	PRIMARY KEY (Name)
+);
+
+\COPY video_games_sales FROM 'C:/Users/kcrok/Downloads/videogames/video_games_sales.csv'
+DELIMITER ','
+NULL ''
+CSV HEADER;
+
+
+
+LOAD DATA LOCAL INFILE 'C:/Users/kcrok/Downloads/videogames/video_games_sales.csv'
+INTO TABLE video_games_sales
+FIELDS TERMINATED BY ','
+NULL '',
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
